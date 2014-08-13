@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>51F4EDC8-D9B9-417B-9525-4CF036C3AD4F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>newtest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>44194168-424B-41B6-9EFF-A458400851BB</key>
+		<string>https://github.com/senthilxvalue/newtest.git</string>
+		<key>9B336E76-F02F-4319-ADE3-9D14F467914E</key>
+		<string>https://github.com/senthilxvalue/new.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>newtest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>44194168-424B-41B6-9EFF-A458400851BB</key>
+		<string>../../newtest</string>
+		<key>9B336E76-F02F-4319-ADE3-9D14F467914E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/senthilxvalue/new.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9B336E76-F02F-4319-ADE3-9D14F467914E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9B336E76-F02F-4319-ADE3-9D14F467914E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>new</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>44194168-424B-41B6-9EFF-A458400851BB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>newtest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
